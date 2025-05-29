@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "nombre": "Peluche Hello Kitty Clásica",
+    "descripcion": "Hello Kitty con su icónico moño rojo y vestido rosa.",
+    "precio": 6000,
+    "stock": 10,
+    "cantidad": 0,
+    "imagen": "https://res.cloudinary.com/dca8pkrdx/image/upload/v1748448115/61RB2PDr-uL._AC_UF1000_1000_QL80__qhgu3c.jpg"
+  },
+  {
+    "id": 2,
+    "nombre": "Peluche My Melody Rosa",
+    "descripcion": "Suave peluche de My Melody con capucha rosa.",
+    "precio": 5800,
+    "stock": 12,
+    "cantidad": 0,
+    "imagen": "https://res.cloudinary.com/dca8pkrdx/image/upload/v1748464547/D_NQ_NP_744898-MEC75756825009_042024-O_juagpc.webp"
+  },
+  {
+    "id": 3,
+    "nombre": "Peluche Cinnamoroll Sentado",
+    "descripcion": "Adorable Cinnamoroll con orejas largas y sonrisa tierna.",
+    "precio": 6200,
+    "stock": 8,
+    "cantidad": 0,
+    "imagen": "https://res.cloudinary.com/dca8pkrdx/image/upload/v1748466728/61W77xXgayL_gcdls0.jpg"
+  },
+  {
+    "id": 4,
+    "nombre": "Peluche Kuromi Rebelde",
+    "descripcion": "Kuromi con su traje negro y calavera en el moño.",
+    "precio": 6500,
+    "stock": 6,
+    "cantidad": 0,
+    "imagen": "https://res.cloudinary.com/dca8pkrdx/image/upload/v1748464877/sg-11134201-7qveg-leyjicnhwrp2de1-7fccd0fde133895bf016951599185571-1024-1024-removebg-preview_avru38.png"
+  },
+  {
+    "id": 5,
+    "nombre": "Peluche Hello Kitty Arcoíris",
+    "descripcion": "Hello Kitty con vestido colorido y moño multicolor.",
+    "precio": 7000,
+    "stock": 9,
+    "cantidad": 0,
+    "imagen": "https://res.cloudinary.com/dca8pkrdx/image/upload/v1748465054/s-l1200-removebg-preview_uixwb4.png"
+  },
+  {
+    "id": 6,
+    "nombre": "Peluche Keroppi Sonriente",
+    "descripcion": "Keroppi el sapito con camiseta a rayas verdes.",
+    "precio": 4900,
+    "stock": 11,
+    "cantidad": 0,
+    "imagen": "https://res.cloudinary.com/dca8pkrdx/image/upload/v1748465167/71sHgzEhooL._AC_UL495_SR435_495_-removebg-preview_rzcdmt.png"
+  },
+  {
+    "id": 7,
+    "nombre": "Peluche Tuxedosam Azul",
+    "descripcion": "Tuxedosam con su moño y gorrito de marinero.",
+    "precio": 5100,
+    "stock": 10,
+    "cantidad": 0,
+    "imagen": "https://res.cloudinary.com/dca8pkrdx/image/upload/v1748465228/www.ubuy.com_zfmr7u.jpg"
+  },
+  {
+    "id": 8,
+    "nombre": "Peluche Hello Kitty Unicornio",
+    "descripcion": "Hello Kitty con disfraz de unicornio brillante.",
+    "precio": 7300,
+    "stock": 5,
+    "cantidad": 0,
+    "imagen": "https://res.cloudinary.com/dca8pkrdx/image/upload/v1748465294/D_NQ_NP_666761-MLA83563599935_042025-O_a1ycmc.webp"
+  },
+  {
+    "id": 9,
+    "nombre": "Peluche Pompompurin Feliz",
+    "descripcion": "Pompompurin con su boina café y sonrisa tierna.",
+    "precio": 5400,
+    "stock": 13,
+    "cantidad": 0,
+    "imagen": "https://res.cloudinary.com/dca8pkrdx/image/upload/v1748465347/sg-11134201-7rbk0-lktv36xfbo1d5a_nccays.jpg"
+  },
+  {
+    "id": 10,
+    "nombre": "Peluche Kuromi Dormilona",
+    "descripcion": "Kuromi con pijama violeta y osito de peluche.",
+    "precio": 6900,
+    "stock": 4,
+    "cantidad": 0,
+    "imagen": "https://res.cloudinary.com/dca8pkrdx/image/upload/v1748465413/2581396_jmhvcx.webp"
+  },
+  {
+    "id": 11,
+    "nombre": "Peluche Hello Kitty Estrella Pop",
+    "descripcion": "Hello Kitty con vestido de estrella pop",
+    "precio": 6600,
+    "stock": 6,
+    "cantidad": 0,
+    "imagen": "https://res.cloudinary.com/dca8pkrdx/image/upload/v1748465528/peluche-hello-kitty-super-style-20-cm-4-surt-109280150_02_bxov5b.jpg"
+  },
+  {
+    "id": 12,
+    "nombre": "Peluche Cinnamoroll Cupcake",
+    "descripcion": "Cinnamoroll como un cupcake.",
+    "precio": 6200,
+    "stock": 7,
+    "cantidad": 0,
+    "imagen": "https://res.cloudinary.com/dca8pkrdx/image/upload/v1748465601/51183MPtvSL._AC_SL1000__g9jvq4.jpg"
+  },
+  {
+    "id": 13,
+    "nombre": "Peluche Chococat Naranja",
+    "descripcion": "Chococat con un collar naranja",
+    "precio": 5800,
+    "stock": 10,
+    "cantidad": 0,
+    "imagen": "https://res.cloudinary.com/dca8pkrdx/image/upload/v1748465895/907243-Zoom.1_i9d4g1.webp"
+  },
+  {
+    "id": 14,
+    "nombre": "Peluche Chococat Curioso",
+    "descripcion": "Chococat con ojos grandes y collar azul.",
+    "precio": 4900,
+    "stock": 8,
+    "cantidad": 0,
+    "imagen": "https://res.cloudinary.com/dca8pkrdx/image/upload/v1748465901/71CsTPY_HWL._AC_UF894_1000_QL80__xfzbg7.jpg"
+  },
+  {
+    "id": 15,
+    "nombre": "Peluche Hello Kitty Bailarina",
+    "descripcion": "Hello Kitty con tutú rosa y zapatillas de ballet.",
+    "precio": 6800,
+    "stock": 9,
+    "cantidad": 0,
+    "imagen": "https://res.cloudinary.com/dca8pkrdx/image/upload/v1748465962/8103FmUj4VL_dnzfxt.jpg"
+  }
+]

@@ -1,0 +1,39 @@
+.estiloPrincipal{
+    height:70vh ;
+    font-size: 1.9em;
+    text-shadow: 1px 1px #000;
+    color: aliceblue;
+    background-image:url(./assetsPages/bannerMain.jpg);
+    background-position-y: 60%;
+    background-size:cover;
+    background-repeat: no-repeat;
+    padding:30px;
+    display: flex;
+    flex-direction:column;
+    flex-wrap: wrap;
+    text-align: center;
+    justify-content: space-between;
+
+    h1{
+        justify-content: first baseline;
+        display: block;
+        font-size: 2em;
+        padding:4px;
+        color: white;
+    }
+
+    h2{
+        padding:2px;
+        font-size: 1.4em;
+
+    }
+    a{
+        text-decoration: none;
+        border-radius: 50px;
+        padding:10px;
+        color: white;
+        background-color: var(--colorPrincipal);
+        text-transform: none;
+        border:2px solid  #110101;
+    }
+}

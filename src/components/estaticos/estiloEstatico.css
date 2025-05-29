@@ -1,0 +1,49 @@
+
+
+
+.header {
+
+  background-color: var(--colorPrincipal);
+  padding: 10px 20px;
+  color: white;
+  display: flex;
+  justify-content:space-around;
+  align-items: center;
+  width: 100%;
+
+}
+ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    margin:0;
+    align-items: center;
+    gap: 50px;
+}
+li{
+    font-size: 2rem;
+}
+
+.imagenLogo{
+    margin-left: 30px;
+}
+.link{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    font-weight: 1000;
+}
+
+footer{
+    background-color: var(--colorPrincipal);
+    padding: 10px;
+    color: white;
+}
+
+.btnCart{
+    background-color: transparent;
+    border: 1px solid white;
+}
+
+.fa-cart-shopping{
+    color:var(--colorRosaCinna) ;
+}
